@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umamaheswar
 - 👀 I’m interested in Docker kubenetes jenkins
-- 🌱 I’m currently learning DevOps
+- 🌱 DevOps Engineer
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me ...
 
